@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="DefaultConnection-Web.config Connection String" description="DefaultConnection Connection String used in web.config by the application to access the database." defaultValue="Server=tcp:foqv9mev1c.database.windows.net,1433;Database=comp3026;User ID=michealpw@foqv9mev1c;Password=P@ssword01;Trusted_Connection=False;Encrypt=True;Connection Timeout=30;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="c:\\users\\developer\\documents\\visual\ studio\ 2013\\Projects\\Midterm\\Midterm\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='DefaultConnection']/@connectionString" />
+  </parameter>
+  <parameter name="CourseModel-Web.config Connection String" description="CourseModel Connection String used in web.config by the application to access the database." defaultValue="Server=tcp:foqv9mev1c.database.windows.net,1433;Database=comp3026;User ID=michealpw@foqv9mev1c;Password=P@ssword01;Trusted_Connection=False;Encrypt=True;Connection Timeout=30;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="c:\\users\\developer\\documents\\visual\ studio\ 2013\\Projects\\Midterm\\Midterm\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='CourseModel']/@connectionString" />
+  </parameter>
+  <parameter name="Midterm.Models.CoursesDbContext-Web.config Connection String" description="Midterm.Models.CoursesDbContext Connection String used in web.config by the application to access the database." defaultValue="Midterm.Models.CoursesDbContext_ConnectionString" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="c:\\users\\developer\\documents\\visual\ studio\ 2013\\Projects\\Midterm\\Midterm\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='Midterm.Models.CoursesDbContext']/@connectionString" />
+  </parameter>
+</parameters>
