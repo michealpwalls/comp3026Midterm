@@ -50,5 +50,8 @@ C:\Users\Developer\Documents\Visual Studio 2013\Projects\Midterm\Midterm\bin\Mic
 C:\Users\Developer\Documents\Visual Studio 2013\Projects\Midterm\Midterm\bin\Microsoft.Owin.Security.Google.xml
 C:\Users\Developer\Documents\Visual Studio 2013\Projects\Midterm\Midterm\bin\Microsoft.Owin.Security.Twitter.xml
 C:\Users\Developer\Documents\Visual Studio 2013\Projects\Midterm\Midterm\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Developer\Documents\Visual Studio 2013\Projects\Midterm\Midterm\obj\Debug\Midterm.Migrations.InitialCreate.resources
+C:\Users\Developer\Documents\Visual Studio 2013\Projects\Midterm\Midterm\obj\Debug\Midterm.Migrations.addedDataAnnotations.resources
+C:\Users\Developer\Documents\Visual Studio 2013\Projects\Midterm\Midterm\obj\Debug\Midterm.csproj.GenerateResource.Cache
 C:\Users\Developer\Documents\Visual Studio 2013\Projects\Midterm\Midterm\obj\Debug\Midterm.dll
 C:\Users\Developer\Documents\Visual Studio 2013\Projects\Midterm\Midterm\obj\Debug\Midterm.pdb
