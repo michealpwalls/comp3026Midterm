@@ -175,6 +175,10 @@
     <Compile Include="Migrations\201507021929559_addedDataAnnotations.Designer.cs">
       <DependentUpon>201507021929559_addedDataAnnotations.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\201507021940362_addedMoreDataAnnotations.cs" />
+    <Compile Include="Migrations\201507021940362_addedMoreDataAnnotations.Designer.cs">
+      <DependentUpon>201507021940362_addedMoreDataAnnotations.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\AccountViewModels.cs" />
     <Compile Include="Models\CourseModel.cs" />
@@ -264,6 +268,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\201507021929559_addedDataAnnotations.resx">
       <DependentUpon>201507021929559_addedDataAnnotations.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201507021940362_addedMoreDataAnnotations.resx">
+      <DependentUpon>201507021940362_addedMoreDataAnnotations.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>

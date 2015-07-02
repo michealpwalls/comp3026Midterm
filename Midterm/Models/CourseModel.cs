@@ -9,12 +9,17 @@ namespace Midterm.Models
     {
         public int ID { get; set; }
         [Required]
+        [Display(Name="Course Code")]
         public string CourseCode { get; set; }
         [Required]
+        [Display(Name = "Course Name")]
         public string CourseName { get; set; }
         [Required]
+        [Display(Name = "Course Description")]
         public string CourseDescription { get; set; }
         [Required]
+        [Display(Name = "Course Cost")]
+        [DataType(DataType.Currency)]
         public float CourseCost { get; set; }
     }
 
