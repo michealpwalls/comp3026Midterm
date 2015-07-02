@@ -188,6 +188,8 @@
     <Compile Include="Startup.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Content\bootstrap.css.orig" />
+    <None Include="Content\bootstrap.min.css.orig" />
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
     <Content Include="favicon.ico" />

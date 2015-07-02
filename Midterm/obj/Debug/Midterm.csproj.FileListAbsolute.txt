@@ -56,3 +56,4 @@ C:\Users\Developer\Documents\Visual Studio 2013\Projects\Midterm\Midterm\obj\Deb
 C:\Users\Developer\Documents\Visual Studio 2013\Projects\Midterm\Midterm\obj\Debug\Midterm.csproj.GenerateResource.Cache
 C:\Users\Developer\Documents\Visual Studio 2013\Projects\Midterm\Midterm\obj\Debug\Midterm.dll
 C:\Users\Developer\Documents\Visual Studio 2013\Projects\Midterm\Midterm\obj\Debug\Midterm.pdb
+C:\Users\Developer\Documents\Visual Studio 2013\Projects\Midterm\Midterm\obj\Debug\Midterm.csprojResolveAssemblyReference.cache
