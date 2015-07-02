@@ -22,8 +22,6 @@ namespace Midterm.Controllers
 
         public ActionResult Contact()
         {
-            ViewBag.Message = "<a href=\"michealpwalls@gmail.com\">michealpwalls@gmail.com</a>.";
-
             return View();
         }
     }
