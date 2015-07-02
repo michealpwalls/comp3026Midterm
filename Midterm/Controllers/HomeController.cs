@@ -15,14 +15,14 @@ namespace Midterm.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Your application description page.";
+            ViewBag.Message = "This application was a quick attempt at the comp3026 midterm.";
 
             return View();
         }
 
         public ActionResult Contact()
         {
-            ViewBag.Message = "Your contact page.";
+            ViewBag.Message = "<a href=\"michealpwalls@gmail.com\">michealpwalls@gmail.com</a>.";
 
             return View();
         }
